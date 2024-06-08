@@ -4,6 +4,10 @@ This is a personal custom GRUB menu theme, i wanted something that looked modern
 
 This will only work with 1920x1080 displays.
 
+![Preview](https://raw.githubusercontent.com/kenaioz/grub-min-theme/main/assets/preview.png)
+
+(One day i will test this theme in a VM to take a propper screenshot)
+
 ## How to install a GRUB theme:
 
 If you founded this repo, liked the theme and wants to try it out, you just have to follow this steps:
